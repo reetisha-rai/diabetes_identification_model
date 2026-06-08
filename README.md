@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28723038/README.md)
 # Diabetes Prediction Model
 
 This project develops a machine learning model to predict the likelihood of an individual having diabetes based on various diagnostic measurements.
