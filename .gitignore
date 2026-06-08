@@ -1,0 +1,25 @@
+# .gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+
+# Jupyter/Colab specific
+.ipynb_checkpoints/
+*.ipynb
+
+# Operating System
+.DS_Store
+thumbs.db
+
+# Data (if you don't want to commit large data files)
+# diabetes.csv
+
+# Environment variables / API keys (if applicable)
+.env
+*.env
